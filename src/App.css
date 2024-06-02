@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+  div {
+    width: 90%; /* Adjust layout for smaller screens */
+  }
+
+  p {
+    font-size: 1.5em; /* Adjust font size for mobile */
+  }
+}
+
+@media(max-width:412px){
+div{
+  width: 50%;
+}
+p{
+  font-size: 13px;
+}
+}
