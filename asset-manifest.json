@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/uifry/static/css/main.551b8ee6.css",
+    "main.js": "/uifry/static/js/main.ea95b9fd.js",
+    "static/js/453.2a0906f0.chunk.js": "/uifry/static/js/453.2a0906f0.chunk.js",
+    "static/media/testi.png": "/uifry/static/media/testi.eba4576030ea23ff19a5.png",
+    "static/media/phone.png": "/uifry/static/media/phone.2701db6de5ae405262ad.png",
+    "static/media/spot.png": "/uifry/static/media/spot.9fb62d9f496657aa96ab.png",
+    "static/media/phone3.png": "/uifry/static/media/phone3.57af337a083845c35b07.png",
+    "static/media/phone1.png": "/uifry/static/media/phone1.0b550b2bd7604d22c387.png",
+    "static/media/phone2.png": "/uifry/static/media/phone2.48241ae6767d2f706df7.png",
+    "static/media/ready.png": "/uifry/static/media/ready.26a17ef87f0d51a8f0ee.png",
+    "static/media/table.png": "/uifry/static/media/table.448b375867a7949fce46.png",
+    "static/media/zig.png": "/uifry/static/media/zig.d57e5a1584797619ad1b.png",
+    "index.html": "/uifry/index.html",
+    "main.551b8ee6.css.map": "/uifry/static/css/main.551b8ee6.css.map",
+    "main.ea95b9fd.js.map": "/uifry/static/js/main.ea95b9fd.js.map",
+    "453.2a0906f0.chunk.js.map": "/uifry/static/js/453.2a0906f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551b8ee6.css",
+    "static/js/main.ea95b9fd.js"
+  ]
+}
